@@ -17,11 +17,25 @@ else:
   median = sortedlist_num[n//2]
 print ('4. The MEDIAN of values on page 110-11, question 4 =', median)
 
-frequency = {}
-for number in values:
-  frequency.setdefault(number, 0)
-  frequency[number]+=1
-highestfrequency=max(frequency.values())
-print({max(frequency.values())})
+y = sortedlist
+L1 = []
+i = 0
+while i < len(y):
+  l1.append(y.count(y[i])
+  i += 1
+d1 = dict(zip(y,L1))
+d2 = (k for (k,v) in d1.items() if v == max(L1))
+print('Mode(s) is/are:', str(d2))
+
+
+
+
+
+#frequency = {}
+#for number in values:
+  #frequency.setdefault(number, 0)
+  #frequency[number]+=1
+#highestfrequency = max(frequency.values())
+#print({max(frequency.values())})
 
 #print ('5. The MODE of values on page 110-111, question 4 =', mode(values),'\n')
