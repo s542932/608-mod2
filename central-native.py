@@ -1,5 +1,6 @@
 values = [47,95,88,73,88,84]
 
+print('\nHere are my answers using native Python for the Module 2 Project. \n')
 print ('\n1. The COUNT of values on page 110-111, question 4 =',len(values))
 
 print ('2. The SUM of values on page 110-111, question 4 =',sum(values))
