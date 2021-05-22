@@ -9,4 +9,4 @@ print (f'3. The MEAN of this dataset is = {statistics.mean(values):.2f}')
 
 print (f'4. The MEDIAN of this dataset is = {statistics.median(values):.2f}')
 
-print ('5. The MODE of this dataset is = {statistics.mode(values):.2f}','\n')
+print ('5. The MODE of this dataset is = {statistics.mode(values):.2f} \n')
