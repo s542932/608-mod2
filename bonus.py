@@ -3,6 +3,8 @@ values = [7, 9, 11, 111, 33, 3, 8, 5, 12, 11, 12, 20, 25, 35, 45, 55, 65, 75, 86
           7, 4, 11, 77, 777, 99, 999, 111, 44, 617, 11111, 111111, 99, 100, 101, 111, 121, 122, 155, 165, 175, 185, 195, 205, 204, 66, 91, 911, 101, 102]
 import statistics
 
+print('\nHere are my answers for the Bonus Qustion for the Module 2 Project. \n')
+
 print ('\nPython Stastics was used to determine the mean, median, and mode in this BONUS example.\n\n1. The COUNT of values for this dataset is =',len(values))
 
 print ('2. The SUM of this dataset is =',sum(values))
