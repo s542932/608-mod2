@@ -18,17 +18,4 @@ else:
 print ('4. The MEDIAN of values on page 110-11, question 4 =', median)
 
 mode = max(values, key= values.count)
-print(mode)
-
-
-
-
-
-#frequency = {}
-#for number in values:
-  #frequency.setdefault(number, 0)
-  #frequency[number]+=1
-#highestfrequency = max(frequency.values())
-#print({max(frequency.values())})
-
-#print ('5. The MODE of values on page 110-111, question 4 =', mode(values),'\n')
+print ('5. The MODE of values on page 110-111, question 4 =', mode,'\n')
