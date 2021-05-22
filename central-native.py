@@ -9,7 +9,7 @@ print (f'3. The MEAN of values on page 110-111, question 4 = {(mean):.2f}')
 
 sortedlist = sorted(values)
 n = len(values)
-if n % 2 = 0:
+if n % 2 == 0:
   median1 = sortedlist[n//2]
   median2 = sortedlist[n//2-1]
   median = (median1 + median2)/2
