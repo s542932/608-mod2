@@ -17,6 +17,7 @@ else:
   median = sortedlist_num[n//2]
 print ('4. The MEDIAN of values on page 110-11, question 4 =', median)
 
+frequency = {}
 for number in values:
   frequency.setdefault(number, 0)
   frequency[number]+=1
