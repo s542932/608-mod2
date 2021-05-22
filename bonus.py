@@ -1,4 +1,6 @@
-values = [47,95,88,73,88,84]
+values = [7, 9, 11, 111, 33, 3, 8, 5, 12, 11, 12, 20, 25, 35, 45, 55, 65, 75, 86, 99, 101, 102, 99, 88, 44, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 22, 33, 44, 55, 66, 77, 88, 99, 111, 
+          121, 1221, 333, 444, 55, 666, 777, 898, 14, 15, 16, 17, 617, 623, 312, 211, 11, 32, 324, 518, 617, 888, 666, 777, 9, 10, 11, 55, 555, 5555, 111, 1111, 11111, 11, 111, 121, 
+          7, 4, 11]
 import statistics
 
 print ('\nPython Stastics was used to determine the mean, median, and mode in this BONUS example.\n\n1. The COUNT of values for this dataset is =',len(values))
