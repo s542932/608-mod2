@@ -17,15 +17,8 @@ else:
   median = sortedlist_num[n//2]
 print ('4. The MEDIAN of values on page 110-11, question 4 =', median)
 
-y = sortedlist
-L1 = []
-i = 0
-while i < len(y):
-  L1.append(y.count(y[i])
-  i += 1
-d1 = dict(zip(y,L1))
-d2 = (k for (k,v) in d1.items() if v == max(L1))
-print('Mode(s) is/are:', str(d2))
+mode = max(values, key= values.count)
+print(mode)
 
 
 
